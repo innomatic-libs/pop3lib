@@ -1,0 +1,40 @@
+<?xml version='1.0'?>
+<application>
+
+	<definition>
+		<idname>pop3lib</idname>
+		<release>
+			<version>1.0-3</version>
+			<date>2008/12/15</date>
+			<changesfile>CHANGES</changesfile>
+		</release>
+		<description>POP3 protocol client access to mail boxes.</description>
+		<category>libraries</category>
+		<iconfile></iconfile>
+		<legal>
+			<author>
+				<name>Manuel Lemos</name>
+				<email>mlemos@acm.org</email>
+				<web>http://www.ManuelLemos.net/</web>
+			</author>
+			<copyright></copyright>
+			<license>BSD</license>
+			<licensefile></licensefile>
+		</legal>
+		<support>
+			<supportemail>support@innomatica.it</supportemail>
+			<bugsemail>bugs@innomatica.it</bugsemail>
+			<maintainer>
+				<name>Alex Pagnoni</name>
+				<email>alex.pagnoni@innoteam.it</email>
+			</maintainer>
+		</support>
+	</definition>
+
+	<components>
+
+		<class name="pop3/POP3.php" />
+
+	</components>
+
+</application>
