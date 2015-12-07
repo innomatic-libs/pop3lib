@@ -4,7 +4,7 @@
 	<definition>
 		<idname>pop3lib</idname>
 		<release>
-			<version>1.0-3</version>
+			<version>1.0.4</version>
 			<date>2008/12/15</date>
 			<changesfile>CHANGES</changesfile>
 		</release>
